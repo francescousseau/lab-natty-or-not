@@ -23,19 +23,46 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto faz parte do desafio "Natural ou Fake Natty?" e explora a linha tênue entre o natural e o artificial através do uso de Inteligências Artificiais Generativas. Através de imagens impressionantes e criativas, buscamos desafiar a percepção do que é real e o que é criado digitalmente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+1- DALL-E: Utilizado para gerar imagens realistas com elementos artificiais.
+2- MidJourney: Utilizado para criar composições visuais complexas e esteticamente agradáveis.
+3- GitHub: Para versionamento e compartilhamento do projeto.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1- Planejamento: Definimos os cenários e elementos que gostaríamos de explorar para criar a sensação de algo quase real, mas com um toque artificial.
+2- Geração de Imagens com DALL-E:
+    - Floresta ao Amanhecer: Criamos uma paisagem serena de floresta ao amanhecer com detalhes realistas, incorporando elementos artificiais como formações geométricas de plantas e flores brilhantes.
+    - Cena de Praia ao Pôr do Sol: Criamos uma cena de praia tranquila ao pôr do sol, com conchas simétricas e algas brilhantes para adicionar um toque futurista.
+3- Composições Visuais com MidJourney:
+    - Composição 1: Uma imagem que integra elementos naturais e artificiais, criando um efeito quase surreal.
+    - Composição 2: Outra composição visual que mistura elementos naturais e artificiais para desafiar a percepção do espectador.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+1. Floresta ao Amanhecer (DALL-E)
+Uma paisagem serena de floresta ao amanhecer com detalhes realistas e elementos sutis que sugerem a presença de tecnologia avançada.
+![DALL-E](https://github.com/francescousseau/lab-natty-or-not/blob/6426ad72cc0a4b2aa20462f420670e92ebf4333c/DALL%C2%B7E%201.png)
+
+2. Cena de Praia ao Pôr do Sol (DALL-E)
+Uma cena de praia tranquila ao pôr do sol, com detalhes realistas e elementos artificiais, como conchas simétricas e algas brilhantes.
+![DALL-E](https://github.com/francescousseau/lab-natty-or-not/blob/6426ad72cc0a4b2aa20462f420670e92ebf4333c/DALL%C2%B7E.png)
+
+3. Composição Visual 1 (MidJourney)
+Uma composição visual que integra elementos naturais e artificiais, criando um efeito que faz o espectador questionar a realidade da imagem.
+![MIDJOURNEY](https://github.com/francescousseau/lab-natty-or-not/blob/6426ad72cc0a4b2aa20462f420670e92ebf4333c/MIDJOURNEY.png)
+
+4. Composição Visual 2 (MidJourney)
+Composição visual misturando elementos naturais e artificiais para um efeito quase surreal.
+![MIDJOURNEY](https://github.com/francescousseau/lab-natty-or-not/blob/6426ad72cc0a4b2aa20462f420670e92ebf4333c/MIDJOURNEY1.png)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+
+Criar algo que pareça "natty" com IA foi um desafio interessante. A tecnologia de IA tem a capacidade de gerar conteúdos incrivelmente realistas, mas ao mesmo tempo, a adição de elementos artificiais abre um novo campo de possibilidades criativas. Foi fascinante explorar como pequenas alterações podem mudar a percepção do observador e nos fazer questionar o que é real e o que é fabricado.
+
+
 ```
 
 ### Exemplos e Insigths
