@@ -43,19 +43,19 @@ Este projeto faz parte do desafio "Natural ou Fake Natty?" e explora a linha tê
 ## 🚀 Resultados
 1. Floresta ao Amanhecer (DALL-E)
 Uma paisagem serena de floresta ao amanhecer com detalhes realistas e elementos sutis que sugerem a presença de tecnologia avançada.
-![DALL-E](https://github.com/francescousseau/lab-natty-or-not/blob/6426ad72cc0a4b2aa20462f420670e92ebf4333c/DALL%C2%B7E%201.png)
+!DALL-E(https://github.com/francescousseau/lab-natty-or-not/blob/7c4d520c2a484851ccebb236ebc19d5571259618/Floresta%20ao%20Amanhecer.png)
 
 2. Cena de Praia ao Pôr do Sol (DALL-E)
 Uma cena de praia tranquila ao pôr do sol, com detalhes realistas e elementos artificiais, como conchas simétricas e algas brilhantes.
-![DALL-E](https://github.com/francescousseau/lab-natty-or-not/blob/6426ad72cc0a4b2aa20462f420670e92ebf4333c/DALL%C2%B7E.png)
+!DALL-E(https://github.com/francescousseau/lab-natty-or-not/blob/7c4d520c2a484851ccebb236ebc19d5571259618/Cena%20de%20Praia%20ao%20P%C3%B4r%20do%20Sol.png)
 
 3. Composição Visual 1 (MidJourney)
 Uma composição visual que integra elementos naturais e artificiais, criando um efeito que faz o espectador questionar a realidade da imagem.
-![MIDJOURNEY](https://github.com/francescousseau/lab-natty-or-not/blob/6426ad72cc0a4b2aa20462f420670e92ebf4333c/MIDJOURNEY.png)
+!MIDJOURNEY(https://github.com/francescousseau/lab-natty-or-not/blob/7c4d520c2a484851ccebb236ebc19d5571259618/Composi%C3%A7%C3%A3o%20Visual%201.png)
 
 4. Composição Visual 2 (MidJourney)
 Composição visual misturando elementos naturais e artificiais para um efeito quase surreal.
-![MIDJOURNEY](https://github.com/francescousseau/lab-natty-or-not/blob/6426ad72cc0a4b2aa20462f420670e92ebf4333c/MIDJOURNEY1.png)
+!MIDJOURNEY(https://github.com/francescousseau/lab-natty-or-not/blob/7c4d520c2a484851ccebb236ebc19d5571259618/Composi%C3%A7%C3%A3o%20Visual%202.png)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
